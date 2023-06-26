@@ -34,7 +34,7 @@ The Pomodoro Timer project is implemented using HTML, CSS, and JavaScript. HTML 
 
 <h4>✹ Link to the Project ✹</h4>
 
-<h5>Insert the link to your Pomodoro Timer project here</h5>
+<h5>https://bypedroneres.github.io/Pomodoro-Timer/</h5>
 
 <h4>✹ Thanks for your interest! ✹</h4>
 
