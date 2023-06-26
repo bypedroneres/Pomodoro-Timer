@@ -1,0 +1,78 @@
+body {
+    background-color: #1A1A1A;
+    color: #F4F4F4;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Added to stack elements vertically */
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 100;
+  }
+  
+  .timer-container {
+    margin-top: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #1A1A1A;
+    margin: 0 auto;
+    display: flex;
+    border: 4px solid #F4F4F4;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .timer {
+    font-size: 48px;
+  }
+  
+  button {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    padding: 20px 20px;
+    background-color: #1A1A1A;
+    color: #F4F4F4;
+    border: 2px solid #F4F4F4;
+    cursor: pointer;
+    margin: 0px;
+    margin-top: 50px;
+    border-radius: 50px;
+  }
+  
+  button:hover {
+    background-color: #F4F4F4;
+    color: #1A1A1A;
+  }
+
+  /* Social Media Buttons */
+
+  .image-container {
+    margin-top: 100px;
+  }
+  
+  .behance { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .behance img {
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+   
